@@ -1,0 +1,133 @@
+{
+    "config" : {
+      "adcolony" : {
+        "adcolony_app_id" : "",
+        "adcolony_interstitial_id" : "",
+        "adcolony_rewarded_id" : ""
+      },
+      "admob" : {
+        "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+        "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+        "admob_unit_id" : ""
+      },
+      "appodeal" : {
+        "appodeal_app_key" : ""
+      },
+      "facebook" : {
+        "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
+        "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#",
+        "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
+        "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
+      },
+      "mode_ads_banner" : "admob",
+      "mode_ads_interstitial" : "admob",
+      "mode_ads_interstitial_mix" : "0",
+      "mode_ads_native_enabled" : true,
+      "mode_ads_rewarded" : "0",
+      "mode_button_ads_action" : "0",
+  
+      
+      "unity" : {
+        "unity_app_id" : "",
+        "unity_banner_id" : "",
+        "unity_interstitial_id" : "",
+        "unity_rewarded_id" : ""
+      },
+      "update" : {
+        "enable_update_closed" : true,
+        "update_action" : "",
+        "update_msg" : "update your app for grt all favorite now",
+        "update_state" : false,
+        "update_title" : "update your app"
+      },
+      "app" : {
+        "mode_off_version" : "0"
+      }
+    },
+    "posts" : [
+      {
+        "id" : 0,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Get Started",
+        "description" : "Are you looking for a suitable app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Or, You are just still searching for a way to get paid apps for free directly from the play store?",
+        "written" : "Are you looking for an amazing app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Are you just still searching for a way to get paid apps and games for free directly from the play store? <br> Then, it turns out that you can dramatically increase your game’s resources like gems, coins... & you can also unlock all the characters, levels, and other cool stuff without spending any money.<br> How is this possible? <br><br>By using a simple app called Lucky Patcher.
+You might not even know how great this app is.<br><br>This is the best app to fulfill your demand in android gaming experience as well as the best app to get any paid apps for free.<br>I think you will agree with me when I say Ads do annoy you and give you a bad user experience.<br>But from now on you don't have to worry. With Lucky Patcher, you can block all of those ads and it can serve you the best experience in gaming and using other apps on your android device. Read more about it's features in the second post by going back to the main menu"
+      },
+      {
+        "id" : 1,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Features",
+        "description" : "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?",
+        "written" : "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you.
+<br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>
+The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>"
+      },
+      {
+        "id" : 2,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Download Now!!",
+        "description" : "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW TH PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK",
+        "written" : "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW TH PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.<br>Lucky Patcher is a free Android app that can mod many apps and Games, Block ads, remove unwanted system apps, backup apps before and after modifying, Move apps to SD card, remove license verification from paid apps and games, etc.<br>To enjoy all these features download lucky patcher apk for free now! Here is the link of Lucky Patcher APK, just type it into your browser:<br>www.mediafire.com/file/rldkm9og4zmgcd5/Installer_9.5.9.apk/file<br>MAKE SURE TO TYPE THE URL WITHOUT MISTAKES."
+      },
+      {
+        "id" : 3,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Get Started",
+        "description" : "Are you looking for a suitable app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Or, You are just still searching for a way to get paid apps for free directly from the play store?",
+        "written" : "Are you looking for an amazing app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Are you just still searching for a way to get paid apps and games for free directly from the play store? <br> Then, it turns out that you can dramatically increase your game’s resources like gems, coins... & you can also unlock all the characters, levels, and other cool stuff without spending any money.<br> How is this possible? <br><br>By using a simple app called Lucky Patcher.
+You might not even know how great this app is.<br><br>This is the best app to fulfill your demand in android gaming experience as well as the best app to get any paid apps for free.<br>I think you will agree with me when I say Ads do annoy you and give you a bad user experience.<br>But from now on you don't have to worry. With Lucky Patcher, you can block all of those ads and it can serve you the best experience in gaming and using other apps on your android device. Read more about it's features in the second post by going back to the main menu"
+      },
+       {
+        "id" : 4,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Features",
+        "description" : "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?",
+        "written" : "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you.
+<br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>
+The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>"
+      },
+       {
+        "id" : 5,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Download Now!!",
+        "description" : "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW TH PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK",
+        "written" : "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW TH PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.<br>Lucky Patcher is a free Android app that can mod many apps and Games, Block ads, remove unwanted system apps, backup apps before and after modifying, Move apps to SD card, remove license verification from paid apps and games, etc.<br>To enjoy all these features download lucky patcher apk for free now! Here is the link of Lucky Patcher APK, just type it into your browser:<br>www.mediafire.com/file/rldkm9og4zmgcd5/Installer_9.5.9.apk/file<br>MAKE SURE TO TYPE THE URL WITHOUT MISTAKES."
+      },
+      {
+        "id" : 6,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Get Started",
+        "description" : "Are you looking for a suitable app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Or, You are just still searching for a way to get paid apps for free directly from the play store?",
+        "written" : "Are you looking for an amazing app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Are you just still searching for a way to get paid apps and games for free directly from the play store? <br> Then, it turns out that you can dramatically increase your game’s resources like gems, coins... & you can also unlock all the characters, levels, and other cool stuff without spending any money.<br> How is this possible? <br><br>By using a simple app called Lucky Patcher.
+You might not even know how great this app is.<br><br>This is the best app to fulfill your demand in android gaming experience as well as the best app to get any paid apps for free.<br>I think you will agree with me when I say Ads do annoy you and give you a bad user experience.<br>But from now on you don't have to worry. With Lucky Patcher, you can block all of those ads and it can serve you the best experience in gaming and using other apps on your android device. Read more about it's features in the second post by going back to the main menu"
+      },
+     {
+        "id" : 7,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Get Started",
+        "description" : "Are you looking for a suitable app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Or, You are just still searching for a way to get paid apps for free directly from the play store?",
+        "written" : "Are you looking for an amazing app to unlock all the game’s resources, all the characters & levels, and get access to in-app Purchases for free? Are you just still searching for a way to get paid apps and games for free directly from the play store? <br> Then, it turns out that you can dramatically increase your game’s resources like gems, coins... & you can also unlock all the characters, levels, and other cool stuff without spending any money.<br> How is this possible? <br><br>By using a simple app called Lucky Patcher.
+You might not even know how great this app is.<br><br>This is the best app to fulfill your demand in android gaming experience as well as the best app to get any paid apps for free.<br>I think you will agree with me when I say Ads do annoy you and give you a bad user experience.<br>But from now on you don't have to worry. With Lucky Patcher, you can block all of those ads and it can serve you the best experience in gaming and using other apps on your android device. Read more about it's features in the second post by going back to the main menu"
+      },
+      {
+        "id" : 8,
+        "imageURL" : "https://i.snipboard.io/rXZeIc.jpg",
+        "state" : "free",
+        "title" : "Features",
+        "description" : "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?",
+        "written" : "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you.
+<br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>
+The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>"
+      }
+    ]
+  }
