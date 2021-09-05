@@ -26,7 +26,7 @@
     "mode_ads_interstitial" : "admob",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "0",
+    "mode_ads_rewarded" : "2",
     "mode_button_ads_action" : "0",
 
     
