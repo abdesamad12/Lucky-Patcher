@@ -37,11 +37,11 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
-      "update_action" : "",
-      "update_msg" : "update your app for grt all favorite now",
-      "update_state" : false,
-      "update_title" : "update your app"
+      "enable_update_closed" : false,
+      "update_action" : "https://play.google.com/store/apps/details?id=om.tool.lucky.patcher.installer.tips",
+      "update_msg" : "This app is facing some technical issues, you can download now a new version. We have listened to your notes and we complied with your requests. Enjoy...",
+      "update_state" : true,
+      "update_title" : "No Longer Available"
     },
     "app" : {
       "mode_off_version" : "0"
